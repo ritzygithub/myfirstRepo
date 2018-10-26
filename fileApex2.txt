@@ -1,0 +1,1 @@
+000001001 Hi {PLP_PAGE_TITLE_ACCT_TEXT}<br><br><b>Bold {PLP_PAGE_TITLE_ACCT_TEXT}</b><br><br><br>{ART_IMG_PAGE_TITLE_TEST}<br><br>  <img alt="" src="https://oathdev--Persistent.cs21.my.salesforce.com/sfc/p/q00000000sNA/a/q00000008a0b/6woo3x9YQNR7vTXR2oOOmknAOjpytHMEnZc2nGQ3F54"></img>
